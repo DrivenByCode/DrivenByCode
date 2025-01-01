@@ -13,8 +13,9 @@
 
 ### 프레임워크
 
-![SpringBoot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 
 ### 테스팅 프레임워크
 
